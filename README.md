@@ -1,4 +1,7 @@
-## Code and Information Repository for James Song<br>
+## Digital Repository for James Song<br>
+### Bio<br>
+
+
 
 
 <!---
