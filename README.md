@@ -1,4 +1,4 @@
-# Digital Repository for James Song<br>
+# About James Song<br>
 Links to relevant information provided where available.<br>
 Because the information here spans several years, links to archived pages are included for your convenience.<br>
 ### Bio<br>
