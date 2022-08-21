@@ -1,6 +1,6 @@
 # About James Song<br>
 Links to relevant information provided where available.<br>
-Because the information here spans several years, links to archived pages are included for your convenience.<br>
+As the information here spans several years, links to archived pages are included for convenience.<br>
 ### Bio<br>
 James Song is interested in high-impact catalysts that advance humanity. A tireless advocate for education equity, James launched the first digital early-learning programs in Myanmar, and produced the world's first digital education courses in the Rohingya language. He is a pioneer in distributed ledger technology, and has invented novel methods for virtual learning and maintaining academic records on public blockchains. His blockchain work has been featured in The Guardian, Bloomberg, and Reuters, among others - and has been presented at the Organisation for Economic Co-operation and Development (OECD) and Parliamentary Assembly of the Council of Europe. Currently, James researches economic paradoxes in public blockchains and how they can be leveraged to redesign social systems.<br>
 
