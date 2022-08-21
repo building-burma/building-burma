@@ -1,11 +1,8 @@
 # Digital Repository for James Song<br>
-Links to information provided where available.<br>
+Links to relevant information provided where available.<br>
 Because the information here spans several years, links to archived pages are included for your convenience.<br>
 ### Bio<br>
 
-
-## Speaking Engagements<br>
-Links to event information provided where available. Because this list spans several years, links to archived pages are included for your convenience.<br>
 ### Keynote Addresses and Non-Academic Lectures<br>
 FutureTalks, Oslo, Norway, [August 2018](https://www.futuretalks.today/) / [Archive](http://web.archive.org/web/20220820065620/https://www.futuretalks.today/)<br>
 Conference on Refugees, Tulane University School of Law, [November 2018](https://events.tulane.edu/content/conference-refugees) / [Archive](http://web.archive.org/web/20181117223533/http://www.cvent.com/events/refugees-endure-wwii-displaced-persons-vs-today-and-the-lessons-learned/agenda-2276d162c5154185afc4a27a3ade676a.aspx)<br>
