@@ -13,6 +13,9 @@ FutureTalks, Oslo, Norway, [August 2018](https://www.futuretalks.today/) / [Arch
 Conference on Refugees, Tulane University School of Law, [November 2018](https://events.tulane.edu/content/conference-refugees) / [Archive](http://web.archive.org/web/20181117223533/http://www.cvent.com/events/refugees-endure-wwii-displaced-persons-vs-today-and-the-lessons-learned/agenda-2276d162c5154185afc4a27a3ade676a.aspx)<br>
 MAKX Conference, Oslo, Norway, May 2019<br>
 ### Colloquia and Working Groups<br>
+Economic policy meeting, World Economic Forum, Yangon, Myanmar, April 2017<br>
+Horasis Global Meeting, Cascais, Portugal, [May 2017](https://horasis.org/wp-content/uploads/Horasis_Global_Meeting_2017-programme-1.pdf) / [Archive](http://web.archive.org/web/20220822212319/https://horasis.org/wp-content/uploads/Horasis_Global_Meeting_2017-programme-1.pdf)<br>
+UBS Global Visionaries, Amsterdam, Netherlands, June 2017<br>
 FutureTalks, High Arctic, [August 2018](https://www.futuretalks.today/) / [Archive](http://web.archive.org/web/20220820065620/https://www.futuretalks.today/)<br>
 Conference on Rohingya Refugees, Columbia University, [February 2019](https://freerohingyacoalition.org/en/conference-on-rohingya-to-be-held-in-new-york-next-week/) / [Archive](http://web.archive.org/web/20220820070420/https://freerohingyacoalition.org/en/conference-on-rohingya-to-be-held-in-new-york-next-week/)<br>
 Consequent, Minerva University, May 2021<br>
@@ -20,5 +23,4 @@ Consequent, Minerva University, [May 2022](https://consequent.minerva.edu/partic
 ### Presentations<br>
 Parliamentary Assembly of the Council of Europe<br>
 OECD<br>
-Horasis<br>
 World Economic Forum<br>
