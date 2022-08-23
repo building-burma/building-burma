@@ -24,3 +24,5 @@ Consequent, Minerva University, [May 2022](https://consequent.minerva.edu/partic
 Parliamentary Assembly of the Council of Europe<br>
 OECD<br>
 World Economic Forum<br>
+Campden Wealth, New York City, 2015<br>
+Institute for Private Investors, New York City, 2015
