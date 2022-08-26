@@ -26,3 +26,6 @@ Campden Wealth, New York, 2015<br>
 World Economic Forum, 2016<br>
 OECD, 2017<br>
 Parliamentary Assembly of the Council of Europe, 2018<br>
+<br>
+## Media and Downloads<br>
+Economic Paradoxes and Blockchains [PDF](https://raw.githubusercontent.com/building-burma/Public-Files/main/Economic%20Paradoxes%20PUBLIC.pdf)
