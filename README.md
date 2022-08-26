@@ -21,8 +21,8 @@ Conference on Rohingya Refugees, Columbia University, [February 2019](https://fr
 Consequent, Minerva University, May 2021<br>
 Consequent, Minerva University, [May 2022](https://consequent.minerva.edu/participants) / [Archive](http://web.archive.org/web/20220820063802/https://consequent.minerva.edu/participants)<br>
 ### Presentations<br>
-Parliamentary Assembly of the Council of Europe<br>
-OECD<br>
-World Economic Forum<br>
-Campden Wealth, New York City, 2015<br>
-Institute for Private Investors, New York City, 2015
+Institute for Private Investors, New York City, 2015<br>
+Campden Wealth, New York, 2015<br>
+World Economic Forum, 2016<br>
+OECD, 2017<br>
+Parliamentary Assembly of the Council of Europe, 2018<br>
