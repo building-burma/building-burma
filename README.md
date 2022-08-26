@@ -28,5 +28,5 @@ OECD, 2017<br>
 Parliamentary Assembly of the Council of Europe, 2018<br>
 <br>
 ## Media and Downloads<br>
-Hi-res Photo: James Speaking [Download 2.7mb JPEG](https://raw.githubusercontent.com/building-burma/Public-Files/main/JSongSpeakingHiRes.jpg)<br>
+Hi-res Photo of James Song [Download JPEG](https://raw.githubusercontent.com/building-burma/Public-Files/main/JSongSpeakingHiRes.jpg)<br>
 Slides: Economic Paradoxes and Blockchains [Download PDF](https://raw.githubusercontent.com/building-burma/Public-Files/main/Economic%20Paradoxes%20PUBLIC.pdf)<br>
