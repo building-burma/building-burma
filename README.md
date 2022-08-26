@@ -28,4 +28,4 @@ OECD, 2017<br>
 Parliamentary Assembly of the Council of Europe, 2018<br>
 <br>
 ## Media and Downloads<br>
-Economic Paradoxes and Blockchains [PDF](https://raw.githubusercontent.com/building-burma/Public-Files/main/Economic%20Paradoxes%20PUBLIC.pdf)
+Slides: Economic Paradoxes and Blockchains [Download PDF](https://raw.githubusercontent.com/building-burma/Public-Files/main/Economic%20Paradoxes%20PUBLIC.pdf)<br>
