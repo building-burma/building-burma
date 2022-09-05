@@ -24,7 +24,8 @@ Consequent, Minerva University, [May 2022](https://consequent.minerva.edu/partic
 Institute for Private Investors, New York City, 2015<br>
 Campden Wealth, New York, 2015<br>
 World Economic Forum, 2016<br>
-OECD, 2017<br>
+Organisation for Economic Co-operation and Development, 2017<br>
+United Nations, 2017<br>
 Parliamentary Assembly of the Council of Europe, 2018<br>
 ### Business Accelerators<br>
 World Economic Forum Impact Lab, New York, April 2016<br>
