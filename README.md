@@ -8,6 +8,9 @@ As a Fulbright scholar, James pioneered the use of self-hypnosis to boost CD4 T-
 
 James graduated salutatorian from Harvard University, and received an MSc in neuroscience from University College London. His extraordinary accomplishments and proven track record have been recognized by the World Economic Forum, which named him a Young Global Leader.<br>
 
+### Writing<br>
+Song, J. (2022). Inflation is killing us; cryptocurrency alone cannot beat it. CoinTelegraph. [https://cointelegraph.com/news/inflation-is-killing-us-cryptocurrency-cannot-beat-it](https://cointelegraph.com/news/inflation-is-killing-us-cryptocurrency-cannot-beat-it) / [Archive](http://web.archive.org/web/20221105043357/https://cointelegraph.com/news/inflation-is-killing-us-cryptocurrency-cannot-beat-it)<br>
+
 ### Keynote Addresses and Non-Academic Lectures<br>
 FutureTalks, Oslo, Norway, [August 2018](https://www.futuretalks.today/) / [Archive](http://web.archive.org/web/20220820065620/https://www.futuretalks.today/)<br>
 Conference on Refugees, Tulane University School of Law, [November 2018](https://events.tulane.edu/content/conference-refugees) / [Archive](http://web.archive.org/web/20181117223533/http://www.cvent.com/events/refugees-endure-wwii-displaced-persons-vs-today-and-the-lessons-learned/agenda-2276d162c5154185afc4a27a3ade676a.aspx)<br>
