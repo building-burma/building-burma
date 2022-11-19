@@ -29,7 +29,7 @@ Campden Wealth, New York, 2015<br>
 World Economic Forum, 2016<br>
 Organisation for Economic Co-operation and Development, 2017<br>
 United Nations, 2017<br>
-Parliamentary Assembly of the Council of Europe, 2018<br>
+Parliamentary Assembly of the Council of Europe, Committee on Migration, Refugees and Displaced Persons, 2018<br>
 ### Business Accelerators<br>
 World Economic Forum Impact Lab, New York, April 2016<br>
 National Science Foundation Innovation Corps Program, Dallas, [February 2020](https://pitchbook.com/profiles/company/494465-86#overview) / [Archive](http://web.archive.org/web/20220901221758/https://pitchbook.com/profiles/company/494465-86)<br>
