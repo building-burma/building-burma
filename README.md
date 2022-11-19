@@ -15,6 +15,7 @@ Song, J. (2022). Inflation is killing us; cryptocurrency alone cannot beat it. C
 FutureTalks, Oslo, Norway, [August 2018](https://www.futuretalks.today/) / [Archive](http://web.archive.org/web/20220820065620/https://www.futuretalks.today/)<br>
 Conference on Refugees, Tulane University School of Law, [November 2018](https://events.tulane.edu/content/conference-refugees) / [Archive](http://web.archive.org/web/20181117223533/http://www.cvent.com/events/refugees-endure-wwii-displaced-persons-vs-today-and-the-lessons-learned/agenda-2276d162c5154185afc4a27a3ade676a.aspx)<br>
 MAKX Conference, Oslo, Norway, May 2019<br>
+Tech Up for Women, New York, November 2022<br>
 ### Colloquia and Working Groups<br>
 Economic policy meeting, World Economic Forum, Yangon, Myanmar, April 2017<br>
 Horasis Global Meeting, Cascais, Portugal, [May 2017](https://horasis.org/wp-content/uploads/Horasis_Global_Meeting_2017-programme-1.pdf) / [Archive](http://web.archive.org/web/20220822212319/https://horasis.org/wp-content/uploads/Horasis_Global_Meeting_2017-programme-1.pdf)<br>
